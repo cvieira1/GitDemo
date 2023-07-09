@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 39.538 s <<< FAILURE! - in TestSuite
+rahulshettyacademy.TestDemo.titleCheck  Time elapsed: 13.999 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at rahulshettyacademy.TestDemo.titleCheck(TestDemo.java:21)
+
+rahulshettyacademy.TestDemo.titleCheck  Time elapsed: 4.82 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at rahulshettyacademy.TestDemo.titleCheck(TestDemo.java:21)
+

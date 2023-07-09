@@ -1,0 +1,144 @@
+17:47:38.156 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+17:47:38.163 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:47:38.696 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:47:38.720 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:47:50.129 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/itebihtl1jt2f7rswpzwvjn8plajwqq8mmm2hnza to view build report, insights, and many more debugging information all at one place!
+
+17:59:22.163 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+17:59:22.172 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:59:22.773 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:59:22.795 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:59:34.451 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dgceuqqzvtgspr61wtou21cogs1ljyz4spsiesyu to view build report, insights, and many more debugging information all at one place!
+
+09:05:09.175 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+09:05:09.183 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:05:10.213 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:05:10.249 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:05:21.480 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fdzklwwpeihvek9jthwe3str0ltlvjxvpmrrm3vo to view build report, insights, and many more debugging information all at one place!
+
+09:15:29.482 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+09:15:29.489 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:15:30.141 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:15:30.167 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:15:41.423 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/giricyyjtntkisr7uvawlpany6cncnpvssnrvjwo to view build report, insights, and many more debugging information all at one place!
+
+09:19:23.160 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+09:19:23.170 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:19:23.681 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:19:23.704 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:19:34.604 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/w8pczscvbtpbzpfee5svmgvwjtqssy7zoocmkiw1 to view build report, insights, and many more debugging information all at one place!
+
+09:20:48.157 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+09:20:48.164 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:20:48.663 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:20:48.688 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:20:58.961 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nlytreocycaencxzayxtntryaaoujhmipp4lzo57 to view build report, insights, and many more debugging information all at one place!
+
+09:28:31.062 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+09:28:31.069 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+09:28:31.545 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:28:31.568 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+09:28:41.999 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/uxgsyzc8kbeqctyk7tparcoal6ovw6e0vbxnbmsc to view build report, insights, and many more debugging information all at one place!
+
+15:06:03.530 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:06:03.539 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:06:03.994 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:06:04.014 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:06:14.029 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vhhdpdsqaoocq2stkpyqxyjvj1ofhvnf2zmplptg to view build report, insights, and many more debugging information all at one place!
+
+15:09:38.213 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:09:38.218 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:09:38.674 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:09:38.694 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:09:48.439 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ujdlhzfikix8uoxim7mms5reelkmvrmmosnpsv06 to view build report, insights, and many more debugging information all at one place!
+
+15:12:58.032 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:12:58.038 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:12:58.512 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:12:58.535 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:13:08.285 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rkpjprcdi06kerwp7kkegpowfflxqcdbdtpjlcfm to view build report, insights, and many more debugging information all at one place!
+
+15:15:26.268 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:15:26.274 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:15:26.742 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:15:26.762 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:16:14.733 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zj6tpv170kyf86wvnyhya805q1wbwem2mueo7wti to view build report, insights, and many more debugging information all at one place!
+
+15:16:15.565 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/9d7838aa95c25a5c32b0086fb0849a0654b0cb48
+15:16:15.565 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:17:37.171 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:17:37.178 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:17:37.834 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:17:37.859 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:18:08.873 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/cnbyeh3cerepd8a2xfmkma5j1ezvzvcxck4bjjhj to view build report, insights, and many more debugging information all at one place!
+
+15:18:09.555 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f873625771f31c56e44804e16378f0828d9602de
+15:18:09.556 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:23:21.923 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:23:21.929 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:23:22.397 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:23:22.416 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:29:25.308 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:29:25.315 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:29:25.784 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:29:25.806 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:29:47.752 [TestGoogle-0@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Name failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionName","arguments":{"name":"rahulshettyacademy.TestDemo2-titleCheckGoogle"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.61, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:49832}, networkConnectionEnabled: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: d750cf17a58e450f6e134d3051a...}
+15:29:49.193 [titleCheckGoogle@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"expected [true] but found [false]","status":"failed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.61, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:49832}, networkConnectionEnabled: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: d750cf17a58e450f6e134d3051a...}
+15:30:00.353 [TestGoogle-1@1] ERROR c.browserstack.utils.UtilityMethods - Mark Session Name failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionName","arguments":{"name":"rahulshettyacademy.TestDemo2-titleCheckGoogle"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 104.0, moz:accessibilityChecks: false, moz:buildID: 20220818191623, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 13616, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 7c11c6476f66e3b8f56ad442d01...}
+15:30:01.785 [titleCheckGoogle@1] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"expected [true] but found [false]","status":"failed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 104.0, moz:accessibilityChecks: false, moz:buildID: 20220818191623, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 13616, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 7c11c6476f66e3b8f56ad442d01...}
+15:30:12.145 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/0avsqhfrd38x6aknwgvdlwafldhlaa8jxypbh12h to view build report, insights, and many more debugging information all at one place!
+
+15:30:12.652 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/1a42ef27e4b8f025c033e82e0114484f6e810b9d
+15:30:12.653 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:41:33.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.6.0
+15:41:33.559 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:41:34.021 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:41:34.040 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:41:57.165 [TestGoogle-0@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Name failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionName","arguments":{"name":"rahulshettyacademy.TestDemo2-titleCheckGoogle"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.61, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:62786}, networkConnectionEnabled: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: ed4745f20ac0963e72d25c6b9fe...}
+15:41:58.605 [titleCheckGoogle@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"expected [true] but found [false]","status":"failed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.61, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:62786}, networkConnectionEnabled: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: ed4745f20ac0963e72d25c6b9fe...}
+15:42:04.095 [TestGoogle-1@1] ERROR c.browserstack.utils.UtilityMethods - Mark Session Name failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionName","arguments":{"name":"rahulshettyacademy.TestDemo2-titleCheckGoogle"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 104.0, moz:accessibilityChecks: false, moz:buildID: 20220818191623, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2928, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 109da710bd3a2578123de4dc9bc...}
+15:42:05.496 [titleCheckGoogle@1] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"expected [true] but found [false]","status":"failed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 104.0, moz:accessibilityChecks: false, moz:buildID: 20220818191623, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2928, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, optimalHubUrl: hub-use.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 109da710bd3a2578123de4dc9bc...}
+15:42:19.589 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5bwfj2msjf1jalkr42l4ux1wxvtleniv3xw13kb7 to view build report, insights, and many more debugging information all at one place!
+
+15:42:20.155 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b4efb157d11699a989e6b34eb92cdb15d7c7f413
+15:42:20.155 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

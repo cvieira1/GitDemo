@@ -1,0 +1,252 @@
+# Created at 2023-07-06T17:47:38.031
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.034
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37,685 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback-test.xml] at [jar:file:'.
+
+# Created at 2023-07-06T17:47:38.036
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '/C:/Users/Caio/.m2/repository/com/browserstack/browserstack-java-sdk/1.8.3/browserstack-java-sdk-1.8.3.jar!/logback-test.xml]'.
+
+# Created at 2023-07-06T17:47:38.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37,729 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@5af3afd9 - URL [jar:file:'.
+
+# Created at 2023-07-06T17:47:38.040
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '/C:/Users/Caio/.m2/repository/com/browserstack/browserstack-java-sdk/1.8.3/browserstack-java-sdk-1.8.3.jar!/logback-test.xml] is not of type file'.
+
+# Created at 2023-07-06T17:47:38.041
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37,848 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set'.
+
+# Created at 2023-07-06T17:47:38.044
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37,850 |-INFO in ch.qos.logback.core.joran.action.ConversionRuleAction - registering conversion word customHighlight with class [com.browserstack.utils.CustomHighlightingCompositeConverter]'.
+
+# Created at 2023-07-06T17:47:38.046
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37,850 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.FileAppender]'.
+
+# Created at 2023-07-06T17:47:38.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.050
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37,876 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [FILEAPPENDER]'.
+
+# Created at 2023-07-06T17:47:38.051
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.052
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '37,896 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property'.
+
+# Created at 2023-07-06T17:47:38.053
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.055
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,006 |-INFO in ch.qos.logback.core.FileAppender[FILEAPPENDER] - File property is set to [logs/browserstack-javaagent.log]'.
+
+# Created at 2023-07-06T17:47:38.056
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.057
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,009 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]'.
+
+# Created at 2023-07-06T17:47:38.058
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.059
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,013 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]'.
+
+# Created at 2023-07-06T17:47:38.061
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.062
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,014 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property'.
+
+# Created at 2023-07-06T17:47:38.063
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.064
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,016 |-ERROR in ch.qos.logback.core.pattern.parser.Compiler@323b36e0 - Failed to instantiate converter class [com.browserstack.utils.CustomHighlightingCompositeConverter] as a composite converter for keyword [customHighlight] ch.qos.logback.core.util.DynamicClassLoadingException: Failed to instantiate type com.browserstack.utils.CustomHighlightingCompositeConverter'.
+
+# Created at 2023-07-06T17:47:38.065
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at ch.qos.logback.core.util.DynamicClassLoadingException: Failed to instantiate type com.browserstack.utils.CustomHighlightingCompositeConverter'.
+
+# Created at 2023-07-06T17:47:38.067
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.util.OptionHelper.instantiateByClassNameAndParameter(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.068
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.util.OptionHelper.instantiateByClassName(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.069
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.util.OptionHelper.instantiateByClassName(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.070
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.pattern.parser.Compiler.a(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.071
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.pattern.parser.Compiler.a(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.072
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.pattern.parser.Parser.compile(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.073
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.pattern.PatternLayoutBase.start(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.074
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.classic.encoder.PatternLayoutEncoder.start(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.080
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.action.NestedComplexPropertyIA.end(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.082
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.spi.Interpreter.callEndAction(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.083
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.spi.Interpreter.endElement(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.084
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.spi.Interpreter.endElement(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.086
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.spi.EventPlayer.play(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.087
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.GenericConfigurator.doConfigure(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.089
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.GenericConfigurator.doConfigure(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.095
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.GenericConfigurator.doConfigure(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.097
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.core.joran.GenericConfigurator.doConfigure(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.098
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.classic.util.ContextInitializer.configureByResource(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.099
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at ch.qos.logback.classic.util.ContextInitializer.autoConfig(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.101
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at org.slf4j.impl.StaticLoggerBinder.init(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.102
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at org.slf4j.impl.StaticLoggerBinder.<clinit>(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.103
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at org.slf4j.LoggerFactory.bind(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.104
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at org.slf4j.LoggerFactory.performInitialization(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.105
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at org.slf4j.LoggerFactory.getILoggerFactory(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.106
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at org.slf4j.LoggerFactory.getLogger(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.107
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at org.slf4j.LoggerFactory.getLogger(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.108
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at com.browserstack.BrowserStackJavaAgent.<clinit>(Unknown Source)'.
+
+# Created at 2023-07-06T17:47:38.111
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)'.
+
+# Created at 2023-07-06T17:47:38.114
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)'.
+
+# Created at 2023-07-06T17:47:38.116
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)'.
+
+# Created at 2023-07-06T17:47:38.118
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)'.
+
+# Created at 2023-07-06T17:47:38.120
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)'.
+
+# Created at 2023-07-06T17:47:38.124
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)'.
+
+# Created at 2023-07-06T17:47:38.132
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Caused by: java.lang.ClassNotFoundException:'.
+
+# Created at 2023-07-06T17:47:38.134
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'com.browserstack.utils.CustomHighlightingCompositeConverter'.
+
+# Created at 2023-07-06T17:47:38.135
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)'.
+
+# Created at 2023-07-06T17:47:38.137
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)'.
+
+# Created at 2023-07-06T17:47:38.138
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)'.
+
+# Created at 2023-07-06T17:47:38.139
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at 	... 33 common frames omitted'.
+
+# Created at 2023-07-06T17:47:38.141
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.153
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,016 |-ERROR in ch.qos.logback.core.pattern.parser.Compiler@323b36e0 - Failed to create converter for [%customHighlight] keyword'.
+
+# Created at 2023-07-06T17:47:38.154
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.155
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,017 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO'.
+
+# Created at 2023-07-06T17:47:38.156
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.158
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,017 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]'.
+
+# Created at 2023-07-06T17:47:38.159
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.160
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,019 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting additivity of logger [com.browserstack] to false'.
+
+# Created at 2023-07-06T17:47:38.161
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.162
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,020 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [FILEAPPENDER] to Logger[com.browserstack]'.
+
+# Created at 2023-07-06T17:47:38.163
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.164
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,020 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting additivity of logger [stdoutPrinter] to false'.
+
+# Created at 2023-07-06T17:47:38.165
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.169
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,020 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[stdoutPrinter]'.
+
+# Created at 2023-07-06T17:47:38.177
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.185
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,020 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.'.
+
+# Created at 2023-07-06T17:47:38.193
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '17:47:'.
+
+# Created at 2023-07-06T17:47:38.199
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '38,022 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@6356695f - Registering current configuration as safe fallback point'.
+

@@ -19,6 +19,8 @@ public class TestDemo {
 		
 		driver.get("https://rahulshettyacademy.com");
 		Assert.assertTrue(driver.getTitle().matches("Selenium, API Testing, Software Testing & More QA Tutorials  | Rahul Shetty Academy"));
+		System.out.println("postJira2");
+		System.out.println("postJira3");
 		
 	}
 	

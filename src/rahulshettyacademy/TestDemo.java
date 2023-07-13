@@ -21,10 +21,17 @@ public class TestDemo {
 		Assert.assertTrue(driver.getTitle().matches("Selenium, API Testing, Software Testing & More QA Tutorials  | Rahul Shetty Academy"));
 		System.out.println("postJira2");
 		System.out.println("postJira3");
-		System.out.println("postJira4");
-		System.out.println("postJira5");
-		System.out.println("postJira6");
-		System.out.println("postJira7");
+		System.out.println("postJira3");
+		System.out.println("postJira3");
+		System.out.println("postJira2");
+		
+	}
+	
+	@Test
+	public void NativeAPpAndroidS() {
+		
+		System.out.println("NativeAPpAndroidS");
+		System.out.println("NativeAPpAndroidS");
 		
 	}
 	

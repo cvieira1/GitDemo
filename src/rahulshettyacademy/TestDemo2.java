@@ -23,4 +23,11 @@ public class TestDemo2 {
 		
 	}
 	
+	@Test
+	public void deleteTwitter12() {
+		
+		System.out.println("deleteTwddter");
+		
+	}
+	
 }

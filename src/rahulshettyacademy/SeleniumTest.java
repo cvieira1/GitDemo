@@ -25,5 +25,13 @@ public class SeleniumTest {
 		System.out.println("elementfdsUi");
 		
 	}
+
+	@Test
+	public void elementsUlssi() {
+		
+		System.out.println("elementfdsUi");
+		
+	}
+	
 	
 }
